@@ -50,7 +50,7 @@ There are four models that are used for analysis. <br/>
 
 
 ### Summary <br/>
-| Model  |  Resampling |  Train Accuracy |  Test Accuracy |  Ranking Based on Cum Returns| 
+| Model  |  Resampling |  Train Accuracy |  Test Accuracy |  Ranking Based on Cumulative Returns| 
 |---|---|---|---|---|
 |  SVC | N  | 64%  | 55%  | 2  |
 |  Logistic Regression| N  | 66%  | 52%  | 3  |
